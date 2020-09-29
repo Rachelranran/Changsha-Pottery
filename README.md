@@ -1,2 +1,5 @@
 # Changsha-Pottery
-Game
+
+Hi Humans!
+
+Ranbot here
